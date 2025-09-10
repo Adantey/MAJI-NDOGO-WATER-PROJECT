@@ -14,3 +14,6 @@ governments.
 5. Will we have enough money to complete the project?
 6. Where can we cut costs?
 7. I want to see data at the national, provincial and town level.
+
+## DASHBOARD
+<img width="1901" height="943" alt="Screenshot 2025-09-09 164314" src="https://github.com/user-attachments/assets/08bc22ed-f03c-4537-99b6-85036061e9c2" />
