@@ -6,6 +6,8 @@ governments.
 
 [Excel-link-here](https://drive.google.com/drive/folders/1LWSF9wm_IYCAQXKDh0-qgjkY1MEwxsyL?usp=drive_link)
 
+[.PBIX-file](https://drive.google.com/drive/folders/1LWSF9wm_IYCAQXKDh0-qgjkY1MEwxsyL?usp=drive_link)
+
 ## Key KPI's
 1. How far is the project?
 2. How much money has been spent so far?
